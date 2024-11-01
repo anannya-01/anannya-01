@@ -1,7 +1,7 @@
 const anannya = {  
   fullName: "Anannya Naiya",  
   pronouns: "She/Her",  
-  tags: ["Frontend ❤", "Backend :')", "Designing 🙌"],
+  tags: ["Frontend ❤", "Backend :')", "Designing 🙌"],  
   askMeAbout: ["Web Development", "Data Structures & Algorithm", "APIs",  "UI Designing"],
   reachMeOut: ["anannyanaiya01@gmail.com"],
   toFindMeUsername: "@anannya.n_"  
